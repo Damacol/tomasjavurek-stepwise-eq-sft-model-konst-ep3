@@ -1,4 +1,4 @@
-# TomasJavurek/stepwise_eq_sft_model_konst_ep3 - Private, Uncensored AI for Real Creators and Devs
+# TomasJavurek/stepwise_eq_sft_model_konst_ep3  - Private, Uncensored AI for Real Creators and Devs
 
 > Tired of AI that babysits you, logs your prompts, or hits you with "I can't do that"?
 > Meet the next-gen chatbot built for freedom, speed, and digital sovereignty.
